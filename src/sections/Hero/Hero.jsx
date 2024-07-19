@@ -40,7 +40,7 @@ function Hero() {
           <br />
           Goel
         </h1>
-        <h2>Frontend Developer</h2>
+        <h2>Software Developer</h2>
         <span>
           <a href="https://www.instagram.com/abhayygoel14/" target="_blank">
             <img src={twitterIcon} alt="Instagram icon" />
